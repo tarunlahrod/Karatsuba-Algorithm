@@ -13,7 +13,7 @@ A sample code for the same is added in the following directory, *Karatsuba-Algor
 Also find the sample code here.
 ```cpp
 #include <boost/multiprecision/cpp_int.hpp>
-#include "karat.hpp"
+#include "karatsuba_cpp_int.hpp"
 
 using boost::multiprecision::cpp_int;
 using namespace std;
